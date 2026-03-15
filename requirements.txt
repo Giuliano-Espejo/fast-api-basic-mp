@@ -1,0 +1,6 @@
+fastapi
+sqlmodel
+mercadopago
+python-dotenv
+pydantic
+psycopg2-binary
